@@ -1,1 +1,1 @@
-<!-- This readme file will discribe about the project -->
+This readme file will discribe about the project
